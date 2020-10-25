@@ -6,7 +6,8 @@ The purpose of this project was to utilize the pandas and matplotlib libraries i
 
 
 ## Results
-The analysis shows that Urban city types had the greatest amount in total fares, followed by Suburban and lastly Rural. /n [See Details in Fig.1](/analysis/Pyber_fare_summary.png)
+The analysis shows that Urban city types had the greatest amount in total fares, followed by Suburban and lastly Rural.
+[See Details in Fig.1](/analysis/PyBer_fare_summary.png)
 
 
 ## Summary
